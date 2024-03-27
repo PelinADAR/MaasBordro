@@ -1,0 +1,5 @@
+C:\Users\hakan\Desktop\MaasBordro\MaasBordroProgrami\MaasBordroProgrami\obj\Debug\net8.0\MaasBordroProgrami.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\MaasBordro\MaasBordroProgrami\MaasBordroProgrami\obj\Debug\net8.0\MaasBordroProgrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\MaasBordro\MaasBordroProgrami\MaasBordroProgrami\obj\Debug\net8.0\MaasBordroProgrami.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\MaasBordro\MaasBordroProgrami\MaasBordroProgrami\obj\Debug\net8.0\MaasBordroProgrami.AssemblyInfo.cs
+C:\Users\hakan\Desktop\MaasBordro\MaasBordroProgrami\MaasBordroProgrami\obj\Debug\net8.0\MaasBordroProgrami.csproj.CoreCompileInputs.cache
